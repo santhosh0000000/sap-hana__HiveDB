@@ -1,0 +1,7 @@
+host,db,table,destination
+mode.geepas.local:30215,BAP1,T00123,s4wig23
+mode.geepas.local:30216,BAP2,T00124,s4wig24
+mode.geepas.local:30217,BAP3,T00125,s4wig25
+mode.geepas.local:30218,BAP4,T00126,s4wig26
+mode.geepas.local:30219,BAP5,T00127,s4wig27
+mode.geepas.local:30220,BAP6,T00128,s4wig28
